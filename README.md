@@ -1,6 +1,6 @@
-# Web idiomas 📣
+# Web de idiomas 📣
 
-Página web basada en un juego de rol en el que el cliente (Una escuela de idiomas) nos solicitaba que crearamos una pagina web básica que constara de:
+Página web basada en un juego de rol en el que el cliente (Una escuela de idiomas) nos solicitaba:
 
 * Una home
 * Un apartado de inscripción
@@ -10,10 +10,15 @@ Página web basada en un juego de rol en el que el cliente (Una escuela de idiom
 ![imagen](https://github.com/Saralopezlovon/Proyecto_idiomas/blob/main/assets/images/webIdiomas.gif)
 
 ## Construido con 🛠️
+
 * HTML
 * CSS
 * JavaScript
 * Firebase - Firestore
+
+## Despliegue 📦
+
+Con Github-Pages. Haz click aqui para ver la [WebIdiomas](https://saralopezlovon.github.io/Proyecto_idiomas/)
 
 ---
 ⌨️ con ❤️ por [Sara López](https://github.com/Saralopezlovon) 😊
