@@ -20,5 +20,9 @@ Página web basada en un juego de rol en el que el cliente (Una escuela de idiom
 
 Con Github-Pages. Haz click aqui para ver la [WebIdiomas](https://saralopezlovon.github.io/Proyecto_idiomas/)
 
----
-⌨️ con ❤️ por [Sara López](https://github.com/Saralopezlovon) 😊
+## Autores ✒️
+
+* **Christian Ciudad** - [City93](https://github.com/City93)
+* **Isabel Guapo** - [IsaGuapo](https://github.com/IsaGuapo)
+* **Sara López** - [Saralopezlovon](https://github.com/Saralopezlovon) 
+
